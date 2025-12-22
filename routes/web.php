@@ -3,7 +3,12 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\Product\ProductController;
+use App\Models\Article;
 
+Route::get('/test-dd', function () {
+    $articles= Article::all();
+    dd($articles);   // Dump and Die here
+});
 Route::get('/articles', [ArticleController::class, 'index']);
 Route::get('/articles/detail/{id}', [ArticleController::class, 'detail']);
 

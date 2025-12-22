@@ -7,6 +7,7 @@ use App\Models\Article;
 use App\Models\Author;
 use App\Models\Post;
 use App\Models\Comment;
+use App\Models\Task;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
@@ -20,7 +21,7 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         Article::factory(10)->create();
-
+        Task::factory(10)->create();
         User::factory()->create([
             'name' => 'Test User',
             'email' => 'test@example.com',
