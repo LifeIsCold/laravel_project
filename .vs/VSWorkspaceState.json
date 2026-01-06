@@ -1,6 +1,18 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Product",
+    "\\app\\Models",
+    "\\database",
+    "\\database\\migrations",
+    "\\database\\seeders",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\articles"
   ],
+  "SelectedNode": "\\database\\migrations\\2025_12_18_042958_create_posts_table.php",
   "PreviewInSolutionExplorer": false
 }

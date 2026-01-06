@@ -14,4 +14,10 @@ class Article extends Model
         'body',
         'category_id',
     ];
+    public function getUpperTitle()
+    {
+        dd($this->title);  // Debug title when called
+
+        return strtoupper($this->title);
+    }
 }

@@ -9,30 +9,23 @@ class Post extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'author_id', 'title', 'slug', 'content', 'excerpt',
-        'featured_image', 'status', 'visibility', 'view_count',
-        'like_count', 'published_at'
-    ];
+    protected $fillable = ['user_id', 'title', 'body'];
 
-    protected $casts = [
-        'published_at' => 'datetime',
-        'view_count' => 'integer',
-        'like_count' => 'integer',
-    ];
-
-    public function author()
+    // Inverse of One-to-Many: Post belongs to User
+    public function user()
     {
-        return $this->belongsTo(Author::class);
+        return $this->belongsTo(User::class);
     }
 
+    // One-to-Many: Post has many Comments
     public function comments()
     {
         return $this->hasMany(Comment::class);
     }
 
-    public function approvedComments()
+    // Many-to-Many: Post is liked by many Users
+    public function likers()
     {
-        return $this->comments()->where('status', 'approved');
+        return $this->belongsToMany(User::class, 'post_user_likes')->withTimestamps();
     }
 }

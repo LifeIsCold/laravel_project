@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\PostController;
+use App\Http\Controllers\LikeController;
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\Product\ProductController;
 use App\Models\Article;
@@ -41,3 +45,23 @@ Route::get('/articles/more', function() {
 
 
 Route::get('/article/index/{id}', [ProductController::class, 'index']);
+
+
+// One-to-One Relationships
+Route::get('/test-relation', [UserController::class, 'index']);
+Route::get('/profile', [ProfileController::class, 'index']);
+
+// One-to-Many Relationships
+Route::get('/post-list', [UserController::class, 'postList']);
+Route::get('/post-user', [PostController::class, 'postedUser']);
+
+// Many-to-Many Relationships
+Route::get('/user/likes', [LikeController::class, 'showLikedPosts']);
+Route::get('/post/likers', [LikeController::class, 'showPostLikers']);
+
+// Has One Through Relationship
+Route::get('/user/{id}/latest-comment', [UserController::class, 'showLatestComment']);
+
+// Has Many Through Relationship
+Route::get('/user/{id}/comments', [UserController::class, 'showUserComments']);
+Route::get('/profile', [ProfileController::class, 'index']);

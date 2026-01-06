@@ -5,19 +5,13 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Comment extends Model
+class Profile extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['post_id', 'user_id', 'comment'];
+    protected $fillable = ['user_id', 'bio', 'avatar'];
 
-    // Comment belongs to Post
-    public function post()
-    {
-        return $this->belongsTo(Post::class);
-    }
-
-    // Comment belongs to User
+    // Inverse of One-to-One: Profile belongs to User
     public function user()
     {
         return $this->belongsTo(User::class);

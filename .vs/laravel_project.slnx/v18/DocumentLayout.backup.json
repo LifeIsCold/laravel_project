@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\laravel_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\AuthorFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ArticleController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\ArticleController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\resources\\views\\articles\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\articles\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Article.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\Product\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Product\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\ArticleFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042943_create_authors_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_12_18_042943_create_authors_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_22_024005_create_tasks_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_12_22_024005_create_tasks_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_12_15_061533_create_articles_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\PostFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\PostFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Task.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Task.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Post.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Post.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\AuthorFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042958_create_posts_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -23,40 +71,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_12_18_043009_create_comments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2025_12_15_061533_create_articles_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\CommentFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\PostFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\PostFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Comment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Post.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Post.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Author.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Author.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\ArticleFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Article.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -65,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\Product\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Product\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,102 +98,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommentFactory.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
-              "RelativeDocumentMoniker": "database\\factories\\CommentFactory.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
-              "RelativeToolTip": "database\\factories\\CommentFactory.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:34:38.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthorFactory.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php",
-              "RelativeDocumentMoniker": "database\\factories\\AuthorFactory.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php",
-              "RelativeToolTip": "database\\factories\\AuthorFactory.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:34:10.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "2025_12_18_042943_create_authors_table.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042943_create_authors_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2025_12_18_042943_create_authors_table.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042943_create_authors_table.php",
-              "RelativeToolTip": "database\\migrations\\2025_12_18_042943_create_authors_table.php",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\resources\\views\\articles\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\articles\\index.blade.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\resources\\views\\articles\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\articles\\index.blade.php",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:30:32.496Z",
+              "WhenOpened": "2025-12-22T03:09:42.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DatabaseSeeder.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:16:05.34Z",
+              "WhenOpened": "2025-12-22T03:08:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ArticleController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\ArticleController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ArticleController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\ArticleController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-22T03:06:37.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "2025_12_15_061533_create_articles_table.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2025_12_15_061533_create_articles_table.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php",
-              "RelativeToolTip": "database\\migrations\\2025_12_15_061533_create_articles_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "ArticleFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\ArticleFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php",
+              "RelativeToolTip": "database\\factories\\ArticleFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T04:29:05.625Z",
+              "WhenOpened": "2025-12-22T03:03:51.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2025_12_18_042958_create_posts_table.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042958_create_posts_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2025_12_18_042958_create_posts_table.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042958_create_posts_table.php",
-              "RelativeToolTip": "database\\migrations\\2025_12_18_042958_create_posts_table.php",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Task.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Task.php",
+              "RelativeDocumentMoniker": "app\\Models\\Task.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Task.php",
+              "RelativeToolTip": "app\\Models\\Task.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:31:22.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "2025_12_18_043009_create_comments_table.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_043009_create_comments_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2025_12_18_043009_create_comments_table.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_043009_create_comments_table.php",
-              "RelativeToolTip": "database\\migrations\\2025_12_18_043009_create_comments_table.php",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:31:41.775Z",
+              "WhenOpened": "2025-12-22T02:44:35.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "2025_12_22_024005_create_tasks_table.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_22_024005_create_tasks_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2025_12_22_024005_create_tasks_table.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_22_024005_create_tasks_table.php",
+              "RelativeToolTip": "database\\migrations\\2025_12_22_024005_create_tasks_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-22T02:42:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PostFactory.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\PostFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\PostFactory.php",
@@ -186,111 +193,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Comment.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
-              "RelativeDocumentMoniker": "app\\Models\\Comment.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
-              "RelativeToolTip": "app\\Models\\Comment.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DatabaseSeeder.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:33:05.887Z",
+              "WhenOpened": "2025-12-18T04:16:05.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Post.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Post.php",
               "RelativeDocumentMoniker": "app\\Models\\Post.php",
               "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Post.php",
               "RelativeToolTip": "app\\Models\\Post.php",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-18T04:32:47.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Author.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Author.php",
-              "RelativeDocumentMoniker": "app\\Models\\Author.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Author.php",
-              "RelativeToolTip": "app\\Models\\Author.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:32:17.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php",
-              "RelativeDocumentMoniker": "app\\Models\\User.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php",
-              "RelativeToolTip": "app\\Models\\User.php",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:24:35.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ArticleFactory.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php",
-              "RelativeDocumentMoniker": "database\\factories\\ArticleFactory.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ArticleFactory.php",
-              "RelativeToolTip": "database\\factories\\ArticleFactory.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:13:52.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": ".env.example",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.env.example",
-              "RelativeDocumentMoniker": ".env.example",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.env.example",
-              "RelativeToolTip": ".env.example",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T04:05:18.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Article.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php",
-              "RelativeDocumentMoniker": "app\\Models\\Article.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php",
-              "RelativeToolTip": "app\\Models\\Article.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T04:28:16.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T04:26:30.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "ProductController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\Product\\ProductController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\Product\\ProductController.php",
@@ -298,7 +227,157 @@
               "RelativeToolTip": "app\\Http\\Controllers\\Product\\ProductController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-15T04:14:42.296Z"
+              "WhenOpened": "2025-12-15T04:14:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php",
+              "RelativeDocumentMoniker": "app\\Models\\Article.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Article.php",
+              "RelativeToolTip": "app\\Models\\Article.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T04:28:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:24:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\AuthorFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\AuthorFactory.php",
+              "RelativeToolTip": "database\\factories\\AuthorFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:34:10.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T05:21:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2025_12_15_061533_create_articles_table.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2025_12_15_061533_create_articles_table.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_15_061533_create_articles_table.php",
+              "RelativeToolTip": "database\\migrations\\2025_12_15_061533_create_articles_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T04:29:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\CommentFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
+              "RelativeToolTip": "database\\factories\\CommentFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:34:38.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "2025_12_18_042958_create_posts_table.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042958_create_posts_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2025_12_18_042958_create_posts_table.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_042958_create_posts_table.php",
+              "RelativeToolTip": "database\\migrations\\2025_12_18_042958_create_posts_table.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:31:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "2025_12_18_043009_create_comments_table.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_043009_create_comments_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2025_12_18_043009_create_comments_table.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_18_043009_create_comments_table.php",
+              "RelativeToolTip": "database\\migrations\\2025_12_18_043009_create_comments_table.php",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:31:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Comment.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
+              "RelativeDocumentMoniker": "app\\Models\\Comment.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
+              "RelativeToolTip": "app\\Models\\Comment.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:33:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Author.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Author.php",
+              "RelativeDocumentMoniker": "app\\Models\\Author.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Author.php",
+              "RelativeToolTip": "app\\Models\\Author.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:32:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.env.example",
+              "RelativeDocumentMoniker": ".env.example",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.env.example",
+              "RelativeToolTip": ".env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T04:05:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T04:26:30.511Z"
             }
           ]
         }
