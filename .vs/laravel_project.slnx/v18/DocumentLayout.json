@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\laravel_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ProfileController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -45,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\PostController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\PostController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\CommentFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Comment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2026_01_06_020551_create_comments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -98,11 +94,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-08T09:48:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0001_01_01_000000_create_users_table.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000000_create_users_table.php",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000000_create_users_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-08T07:28:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-08T06:37:21.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProfileController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ProfileController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\ProfileController.php",
@@ -110,12 +145,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\ProfileController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T03:10:10.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T03:10:10.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProfileFactory.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\ProfileFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\ProfileFactory.php",
@@ -123,12 +157,11 @@
               "RelativeToolTip": "database\\factories\\ProfileFactory.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T03:07:17.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T03:07:17.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "2026_01_06_030601_create_profiles_table.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2026_01_06_030601_create_profiles_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\2026_01_06_030601_create_profiles_table.php",
@@ -136,12 +169,11 @@
               "RelativeToolTip": "database\\migrations\\2026_01_06_030601_create_profiles_table.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T03:07:02.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T03:07:02.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Profile.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Profile.php",
               "RelativeDocumentMoniker": "app\\Models\\Profile.php",
@@ -149,12 +181,11 @@
               "RelativeToolTip": "app\\Models\\Profile.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T03:06:52.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T03:06:52.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PostFactory.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\PostFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\PostFactory.php",
@@ -162,64 +193,11 @@
               "RelativeToolTip": "database\\factories\\PostFactory.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:29:00.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:29:00.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CommentFactory.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
-              "RelativeDocumentMoniker": "database\\factories\\CommentFactory.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\factories\\CommentFactory.php",
-              "RelativeToolTip": "database\\factories\\CommentFactory.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:28:50.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseSeeder.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:28:01.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Comment.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
-              "RelativeDocumentMoniker": "app\\Models\\Comment.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Comment.php",
-              "RelativeToolTip": "app\\Models\\Comment.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:18:11.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "web.php",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
-              "RelativeDocumentMoniker": "routes\\web.php",
-              "ToolTip": "C:\\xampp\\htdocs\\laravel_project\\routes\\web.php",
-              "RelativeToolTip": "routes\\web.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:09:11.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "2026_01_06_020550_create_posts_table.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2026_01_06_020550_create_posts_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\2026_01_06_020550_create_posts_table.php",
@@ -227,12 +205,11 @@
               "RelativeToolTip": "database\\migrations\\2026_01_06_020550_create_posts_table.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:06:29.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:06:29.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\User.php",
               "RelativeDocumentMoniker": "app\\Models\\User.php",
@@ -240,12 +217,11 @@
               "RelativeToolTip": "app\\Models\\User.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:08:04.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:08:04.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "LikeController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\LikeController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\LikeController.php",
@@ -253,12 +229,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\LikeController.php",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:19:28.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:19:28.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PostController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\PostController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\PostController.php",
@@ -266,12 +241,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\PostController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:19:12.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:19:12.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Post.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\Post.php",
               "RelativeDocumentMoniker": "app\\Models\\Post.php",
@@ -279,12 +253,11 @@
               "RelativeToolTip": "app\\Models\\Post.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:18:01.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:18:01.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "PostUserLike.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Models\\PostUserLike.php",
               "RelativeDocumentMoniker": "app\\Models\\PostUserLike.php",
@@ -292,12 +265,11 @@
               "RelativeToolTip": "app\\Models\\PostUserLike.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:18:20.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:18:20.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "2026_01_06_020551_create_comments_table.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2026_01_06_020551_create_comments_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\2026_01_06_020551_create_comments_table.php",
@@ -305,12 +277,11 @@
               "RelativeToolTip": "database\\migrations\\2026_01_06_020551_create_comments_table.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:06:54.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:06:54.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ProductController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\Product\\ProductController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\Product\\ProductController.php",
@@ -318,12 +289,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\Product\\ProductController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:12:12.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:12:12.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "UserController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\UserController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserController.php",
@@ -331,12 +301,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\UserController.php",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:11:46.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:11:46.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Controller.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\Controller.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
@@ -344,12 +313,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:10:26.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:10:26.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "2026_01_06_020551_create_post_user_likes_table.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2026_01_06_020551_create_post_user_likes_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\2026_01_06_020551_create_post_user_likes_table.php",
@@ -357,12 +325,11 @@
               "RelativeToolTip": "database\\migrations\\2026_01_06_020551_create_post_user_likes_table.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:07:35.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:07:35.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ArticleController.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\app\\Http\\Controllers\\ArticleController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\ArticleController.php",
@@ -370,12 +337,11 @@
               "RelativeToolTip": "app\\Http\\Controllers\\ArticleController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:10:29.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:10:29.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "2025_12_22_024005_create_tasks_table.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\laravel_project\\database\\migrations\\2025_12_22_024005_create_tasks_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\2025_12_22_024005_create_tasks_table.php",
@@ -383,8 +349,7 @@
               "RelativeToolTip": "database\\migrations\\2025_12_22_024005_create_tasks_table.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T02:06:28.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T02:06:28.819Z"
             }
           ]
         }

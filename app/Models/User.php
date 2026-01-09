@@ -8,8 +8,9 @@ use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable
 {
-    use HasFactory, Notifiable;
 
+    use HasFactory, Notifiable;
+    protected $fillable = ['name', 'email', 'password'];
     // One-to-One: User has one Profile
     public function profile()
     {
@@ -32,25 +33,25 @@ class User extends Authenticatable
     public function latestCommentThroughPost()
     {
         return $this->hasOneThrough(
-            Comment::class,  // Final model (C)
-            Post::class,     // Intermediate model (B)
-            'user_id',       // FK on posts table  posts.user_id
-            'post_id',       // FK on comments table  comments.post_id
-            'id',            // PK on users table
-            'id'             // PK on posts table
-        )->latestOfMany(); // get the latest comment
+            Comment::class,  
+            Post::class,     
+            'user_id',       
+            'post_id',       
+            'id',            
+            'id'             
+        )->latestOfMany(); 
     }
 
     // Has Many Through: User → Post → Comment (all comments)
     public function commentsThroughPosts()
     {
         return $this->hasManyThrough(
-            Comment::class, // Final model (C)
-            Post::class,    // Intermediate model (B)
-            'user_id',      // FK on posts table posts.user_id
-            'post_id',      // FK on comments table comments.post_id
-            'id',           // PK on users table
-            'id'            // PK on posts table
+            Comment::class, 
+            Post::class,    
+            'user_id',      
+            'post_id',      
+            'id',           
+            'id'            
         );
     }
 }

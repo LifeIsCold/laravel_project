@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Models",
+    "\\app\\Http",
+    "\\app\\Http\\Requests",
+    "\\app\\Providers",
+    "\\bootstrap",
+    "\\config",
     "\\database",
-    "\\database\\factories",
-    "\\database\\migrations",
     "\\database\\seeders",
-    "\\resources\\views",
-    "\\resources\\views\\articles",
     "\\routes"
   ],
   "SelectedNode": "\\routes\\web.php",
