@@ -80,3 +80,8 @@ Route::get('/admin', function () {
     return 'Admin Page - Only admin can access';
 })->middleware('check.email');
 require __DIR__.'/auth.php';
+
+Route::middleware('auth')->group(function () {
+	Route::get('/articles/create', [ArticleController::class, 'create']);
+	Route::post('/articles/store', [ArticleController::class, 'store']);
+});

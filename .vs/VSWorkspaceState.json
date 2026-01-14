@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\Http",
-    "\\app\\Http\\Requests",
-    "\\app\\Http\\Requests\\Auth",
     "\\bootstrap",
     "\\database",
     "\\database\\migrations",
     "\\database\\seeders",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\articles",
+    "\\resources\\views\\layouts",
     "\\routes"
   ],
-  "SelectedNode": "\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
   "PreviewInSolutionExplorer": false
 }
