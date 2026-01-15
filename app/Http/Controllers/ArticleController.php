@@ -8,7 +8,7 @@ public function index()
     {
        $articles = Article::all();
 
-        dd($articles);  // Debug here
+        //dd($articles);  // Debug here
 
         return view('articles.index', compact('articles'));
     }
@@ -34,5 +34,29 @@ public function store(Request $request)
 
         // Redirect back to create page
         return redirect('/articles/create')->with('success', 'Article created successfully!');
+    }
+public function edit($id)
+{
+    $article = Article::findOrFail($id);
+    return view('articles.edit', compact('article'));
+}
+public function update(Request $request, $id)
+ {
+      $article = Article::findOrFail($id);
+
+      $article->update([
+          'title' => $request->title,
+          'body' => $request->body,
+          'category_id' => $request->category_id,
+      ]);
+
+      return redirect('/articles');
+ }
+public function destroy($id)
+    {
+        $article = Article::findOrFail($id);
+        $article->delete();
+
+        return redirect('/articles');
     }
 }
