@@ -16,7 +16,7 @@ class Article extends Model
     ];
     public function getUpperTitle()
     {
-        dd($this->title);  // Debug title when called
+        //dd($this->title);  // Debug title when called
 
         return strtoupper($this->title);
     }

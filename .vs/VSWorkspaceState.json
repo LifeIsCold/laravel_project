@@ -8,9 +8,10 @@
     "\\resources",
     "\\resources\\css",
     "\\resources\\views",
+    "\\resources\\views\\articles",
     "\\resources\\views\\layouts",
     "\\routes"
   ],
-  "SelectedNode": "\\resources\\views\\articles\\create.blade.php",
+  "SelectedNode": "\\app\\Models\\Article.php",
   "PreviewInSolutionExplorer": false
 }
